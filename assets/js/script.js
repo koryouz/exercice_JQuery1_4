@@ -1,1 +1,3 @@
-$( "#list" ).css({'color': 'red'});
+$(document).ready(function(){
+  $('#list').css({'color': 'red'});
+)}
